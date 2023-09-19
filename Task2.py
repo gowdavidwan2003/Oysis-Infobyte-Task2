@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 #importing data
-df = pd.read_csv(r"C:\Users\gowda\oysisinfobyte\Unemployment_Rate_upto_11_2020.csv")
+df = pd.read_csv("Unemployment_Rate_upto_11_2020.csv")
 
 # Renaming columns for better clarity
 df.columns = ['States', 'Date', 'Frequency', 'Estimated Unemployment Rate', 'Estimated Employed',
