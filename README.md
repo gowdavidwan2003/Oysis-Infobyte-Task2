@@ -8,7 +8,7 @@ can be a good data science project.
 
 # Unemployment Rate Analysis in India
 
-This project aims to analyze the unemployment rate in India from January 2020 to October 2020, with a focus on the impact of the COVID-19 lockdown. The data source is [Centre for Monitoring Indian Economy (CMIE)](https://www.cmie.com/), which provides monthly estimates of unemployment rate, employed population, and labour participation rate for each state and region in India.
+This project aims to analyze the unemployment rate in India from January 2020 to October 2020, with a focus on the impact of the COVID-19 lockdown. The data provides monthly estimates of unemployment rate, employed population, and labour participation rate for each state and region in India.
 
 The project uses Python libraries such as pandas, numpy, matplotlib, seaborn, plotly, and folium to perform data manipulation, visualization, and exploration. The code is divided into several sections, each with a specific purpose and explanation.
 
